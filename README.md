@@ -2,7 +2,7 @@
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
 
-Test. Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
+Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
 
 Sounds boring. Let's try again.
 
